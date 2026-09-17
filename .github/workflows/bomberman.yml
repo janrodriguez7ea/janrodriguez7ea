@@ -1,1 +1,16 @@
+name: generate-bomberman-contribution-graph
 
+on:
+  schedule:
+    - cron: "0 0 * * *" # Se ejecuta cada noche
+  workflow_dispatch: # Permite ejecutarlo manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          theme: bomberman
