@@ -7,11 +7,11 @@
 </picture>
 
 
-<div style="margin-top: -15px; margin-bottom: 20px;">
-  <!-- GIF pegado directamente sobre las letras -->
-  <img src="https://i.redd.it/6l3qvm8o0sxc1.gif" alt="Joker" height="90px" style="display: block; margin-left: 25px; margin-bottom: -22px;" />
+<div style="text-align: right; margin-top: -10px; margin-bottom: 20px;">
+  <!-- GIF a tamaño completo pegado a la derecha -->
+  <img src="https://i.redd.it/6l3qvm8o0sxc1.gif" alt="Joker" style="display: inline-block; margin-bottom: -15px;" />
   
-  <!-- Título sin márgenes fantasma -->
+  <!-- Título sin márgenes de separación -->
   <h3 style="margin: 0; padding: 0;">👾 Hey! I'm Jan Rodríguez</h3>
 </div>
             
