@@ -18,6 +18,7 @@
 </p>
   
 🧠 About Me
+
 name: Jan Rodríguez     
 role: Developer
 interests:
