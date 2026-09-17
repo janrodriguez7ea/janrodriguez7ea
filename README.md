@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Bienvenido+a+mi+perfil;Explora+mis+repositorios)](https://git.io/typing-svg)
-
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman-contribution-graph-dark.svg">
@@ -8,7 +7,13 @@
 </picture>
 
 
-### 👾 Hey! I'm Jan Rodríguez
+<div style="margin-top: -15px; margin-bottom: 20px;">
+  <!-- GIF pegado directamente sobre las letras -->
+  <img src="https://i.redd.it/6l3qvm8o0sxc1.gif" alt="Joker" height="90px" style="display: block; margin-left: 25px; margin-bottom: -22px;" />
+  
+  <!-- Título sin márgenes fantasma -->
+  <h3 style="margin: 0; padding: 0;">👾 Hey! I'm Jan Rodríguez</h3>
+</div>
             
 <p align="center">
   <img src="https://64.media.tumblr.com/52f7e0dff79d3ea66f0aed3a431268f6/b4905eb5e665ff6c-68/s250x400/d915f1af11a3b3b31d975b146b4fa7b9874e000f.gif" alt="Skull Kid" height="200px" style="vertical-align: middle; margin-right: 15px;" />
