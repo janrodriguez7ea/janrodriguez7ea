@@ -21,6 +21,7 @@
 
 name: Jan Rodríguez     
 role: Developer
+
 interests:
   - Game Development
   - Programming
