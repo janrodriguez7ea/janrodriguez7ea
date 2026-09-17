@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Bienvenido+a+mi+perfil;Explora+mis+repositorios)](https://git.io/typing-svg)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman-contribution-graph.svg">
+</picture>
 
 ### ¡Hola! Soy Jan Rodríguez 👋
             
