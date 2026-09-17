@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Bienvenido+a+mi+perfil;Explora+mis+repositorios)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Bienvenido+a+mi+perfil;Explora+mis+repositorios)](https://git.io/typing-svg) <div style="text-align: right; margin-top: -10px; margin-bottom: 20px;">
+  <!-- GIF a tamaño completo pegado a la derecha -->
+  <img src="https://i.redd.it/6l3qvm8o0sxc1.gif" alt="Joker" style="display: inline-block; margin-bottom: -15px;" />
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman-contribution-graph-dark.svg">
@@ -6,11 +8,6 @@
   <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman.svg">
 </picture>
 
-
-<div style="text-align: right; margin-top: -10px; margin-bottom: 20px;">
-  <!-- GIF a tamaño completo pegado a la derecha -->
-  <img src="https://i.redd.it/6l3qvm8o0sxc1.gif" alt="Joker" style="display: inline-block; margin-bottom: -15px;" />
-  
   <!-- Título sin márgenes de separación -->
   <h3 style="margin: 0; padding: 0;">👾 Hey! I'm Jan Rodríguez</h3>
 </div>
