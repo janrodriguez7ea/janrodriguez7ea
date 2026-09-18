@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+mono&weight=300&size=18&color=E95420&multiline=true&random=false&width=435&lines=Welcome+to+my+profile;Explore+my+repositories)](https://git.io/typing-svg) <div style="text-align: right; margin-top: -10px; margin-bottom: 20px;">
 
   <img src="https://i.redd.it/6l3qvm8o0sxc1.gif" alt="Joker" style="display: inline-block; margin-bottom: -15px;" />
+  
 ---
 
 <picture>
