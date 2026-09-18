@@ -2,6 +2,7 @@
 
   <img src="https://i.redd.it/6l3qvm8o0sxc1.gif" alt="Joker" style="display: inline-block; margin-bottom: -15px;" />
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janrodriguez7ea/janrodriguez7ea/output/bomberman.svg">
