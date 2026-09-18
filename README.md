@@ -15,8 +15,6 @@
             
 <p align="center">
   <img src="https://64.media.tumblr.com/52f7e0dff79d3ea66f0aed3a431268f6/b4905eb5e665ff6c-68/s250x400/d915f1af11a3b3b31d975b146b4fa7b9874e000f.gif" alt="Skull Kid" height="200px" style="vertical-align: middle; margin-right: 15px;" />
-
-  <img src="https://i.pinimg.com/originals/b0/87/53/b08753d58f327fe00490bb5cfa7fcf03.gif" alt="Link" height="200px" style="vertical-align: middle;" />
 </p>
   
 🧠 About Me
